@@ -16,7 +16,7 @@ This activity provides a **hands-on experience in environmental data analysis**,
 
 1. Click the link below to open the Jupyter Notebook in Google Colab:  
 
-   [![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/main/Group_Name_AirQuality_Analysis.ipynb](https://colab.research.google.com/drive/1kVOben7F9RECF2T8x43xW5Uc4pyJWlBU?usp=sharing))
+   [![Open in Colab](https://colab.research.google.com/drive/1kVOben7F9RECF2T8x43xW5Uc4pyJWlBU?usp=sharing)
 
 2. Once Colab opens, you can run the notebook cells to explore the analysis.
 3. Ensure that you have the necessary Python libraries imported, such as datascience and numpy , using :
