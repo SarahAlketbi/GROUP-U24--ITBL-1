@@ -21,9 +21,9 @@ This activity provides a **hands-on experience in environmental data analysis**,
 2. Once Colab opens, you can run the notebook cells to explore the analysis.
 3. Ensure that you have the necessary Python libraries imported, such as datascience and numpy , using :
 
+```python
 from datascience import *
 import numpy as np
-
    
 # Group Name: [GROUP U24]
 ## Members:
