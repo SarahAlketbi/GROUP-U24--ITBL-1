@@ -1,4 +1,4 @@
-# Analyzing California Air Quality Data - Team-Based Learning Activity
+# Analyzing California Air Quality Data - Team-Based Learning Activity : [GROUP U24]
 
 This in-class team-based learning activity [ITBL1] focuses on analyzing air quality trends in California using real-world data from 2020. The dataset includes key air quality indicators such as **PM2.5 concentration levels, AQI values, and regional location information**. The objective is to help students develop **data analysis skills** by performing operations such as **sorting, filtering, and computing new insights**.  
 
@@ -24,7 +24,7 @@ This activity provides a **hands-on experience in environmental data analysis**,
 ```python
 from datascience import *
 import numpy as np
-   
+   ```
 # Group Name: [GROUP U24]
 ## Members:
 - Member 1 Joude Azzam
