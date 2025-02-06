@@ -28,7 +28,7 @@ import numpy as np
 from google.colab import files
    ```
 
-4. Make sure you upload the dataset correctly, it can be found here [![Kaggle][California Air Quality Dataset on Kaggle](https://www.kaggle.com/datasets/thaddeussegura/california-air-quality-2020-through-sept10th)
+4. Make sure you upload the dataset correctly, it can be found here [California Air Quality Dataset on Kaggle](https://www.kaggle.com/datasets/thaddeussegura/california-air-quality-2020-through-sept10th)
 
 
 # Group Name: [GROUP U24]
