@@ -24,7 +24,10 @@ This activity provides a **hands-on experience in environmental data analysis**,
 ```python
 from datascience import *
 import numpy as np
+from google.colab import files
    ```
+
+4. Make sure you upload the dataset correctly, it can be found here [![https://www.kaggle.com/datasets/thaddeussegura/california-air-quality-2020-through-sept10th]]
 # Group Name: [GROUP U24]
 ## Members:
 - Member 1 Joude Azzam
